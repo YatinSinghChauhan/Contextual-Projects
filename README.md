@@ -1,2 +1,2 @@
 # Contextual-Projects
-Contains several projects completed under internship and more.
+Contains several projects completed during NEXEL internship and more.
