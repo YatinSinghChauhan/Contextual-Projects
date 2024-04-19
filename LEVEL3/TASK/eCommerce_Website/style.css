@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.mainContainer {
+    margin: 20px 30px;
+}
+
+h5.labelClass{
+    font-size: 2rem;
+    font-weight: 700;
+    text-transform: capitalize;
+    
+}
+a.labelClass {
+    text-decoration: none;
+    color: white;
+}
+
+hr.horizontal {
+    margin: 30px 30px;
+    padding: 20px 20px;
+    
+    
+}
+
+h2.topDeal {
+    text-align: center;
+    font-weight:700;
+}
+
+
+ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
+    align-items: center;
+    justify-content: center;
+    margin: 7px auto;
+}
+ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
+    margin: 0px 20px;
+}
+
+a.nav-link:hover {
+    font-weight: 700;
+}
+
+li.nav-item {
+    padding: 10px;
+}
+
+.itemContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    margin: 7px 10px;
+    padding: 8px 11px;
+}
+h3.itemName {
+    margin: 7px 10px;
+}
+
+.item1 {
+    margin: 10px auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+img.card-img-top {
+    border-radius: 6px;
+}
+
+svg.account-icon {
+    height: 20px;
+    cursor: pointer;
+    margin: 0 15px;
+    padding: 0 15px;
+}
+
+.itemCard {
+    display: flex;
+    /* border: 2px solid black; */
+    margin: 25px auto;
+}
+.card-title {
+    font-weight: 700;
+}
+.card {
+    margin: 10px;
+    padding: 10px;
+}
+
+ul.navbar-nav.me-auto.mb-2.mb-lg-0 {
+    margin: 0px;
+}
+
+div#navbarSupportedContent {
+
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+    grid-column-gap: 50%;
+    overflow-wrap: anywhere;
+}
+
+a.navbar-brand {
+    font-weight: 800;
+    font-style: italic;
+    text-transform: capitalize;
+    margin: 10px;
+}
+a.navbar-brand:hover {
+    letter-spacing: 5;
+    
+}
+
+/* signup css */
+
+.signClass{
+    text-decoration: none;
+    color: black;
+}
+a.signClass:hover{
+    color: white;
+    
+}
+
+/* form css */
+.form-row{
+    padding: 10px 15px;
+}
+
+.form-group {
+    margin: 15px;
+}
+
+.form-control{
+    margin: 10px 12px;
+}
+.btn{
+    margin: 10px 15px;
+}
