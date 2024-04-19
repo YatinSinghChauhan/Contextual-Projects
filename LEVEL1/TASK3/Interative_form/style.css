@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+.heading {
+    margin: 10px 10px;
+    text-align: center;
+}
+.mainContainer{
+    width: 50%;
+    background-color: #d0cfcf;
+    margin: 20px auto;
+    padding:  15px 15px;
+}
+
+.formContainer {
+
+    display: grid;
+    justify-content: center;
+    margin: 20px;
+    padding: 20px 20px;
+}
+
+
+
+
+/* CSS FOR FORM SUBMIT  */
+.backbtn {
+    width: 50%;
+    
+    margin: 20px auto;
+    padding:  15px 15px;
+}
+
+.mainsubmitContainer {
+    width: 50%;
+    background-color: #FEF5E7;
+    margin: 20px auto;
+    padding:  15px 15px;
+}
+
+span.submitheading {
+    font-weight: 600;
+    font-size: 2rem;
+    color: #117A65;
+}
